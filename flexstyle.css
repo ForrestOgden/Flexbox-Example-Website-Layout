@@ -137,7 +137,7 @@ ul {
 
 
 
-@media (max-width: 500px) {
+@media (max-device-width: 450px) {
   .header .container {
     flex-direction: column;
     padding-top: 20px;
